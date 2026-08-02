@@ -1,0 +1,13 @@
+{
+  "project": "매출 분석",
+  "input": {
+    "path": "data/sales.csv",
+    "encoding": "utf-8"
+  },
+  "minimum_amount": 1000,
+  "regions": [
+    "서울",
+    "부산",
+    "대전"
+  ]
+}

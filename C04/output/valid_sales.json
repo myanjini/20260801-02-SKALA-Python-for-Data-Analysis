@@ -1,0 +1,26 @@
+[
+  {
+    "month": "2026-01",
+    "region": "서울",
+    "category": "도서",
+    "amount": 1500.0
+  },
+  {
+    "month": "2026-01",
+    "region": "부산",
+    "category": "식품",
+    "amount": 2200.0
+  },
+  {
+    "month": "2026-02",
+    "region": "대전",
+    "category": "전자",
+    "amount": 1800.0
+  },
+  {
+    "month": "2026-02",
+    "region": "서울",
+    "category": "식품",
+    "amount": 3200.0
+  }
+]

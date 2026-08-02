@@ -1,0 +1,12 @@
+[
+  {
+    "region": "서울",
+    "category": "도서",
+    "amount": 150000
+  },
+  {
+    "region": "부산",
+    "category": "식품",
+    "amount": 120000
+  }
+]
